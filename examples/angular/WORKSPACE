@@ -3,7 +3,7 @@
 ################################################
 
 workspace(
-    name = "orchid",
+    name = "examples_angular",
     managed_directories = {"@npm": ["node_modules"]},
 )
 
